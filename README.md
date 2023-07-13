@@ -1,6 +1,6 @@
 ## lotas
 
-# [天気予報が当たらない理由の考察](./lotas.org)
+# [天気予報と量子力学と法華経論](./lotas.org)
 
 ## by nagaihart@gmail.com
 
